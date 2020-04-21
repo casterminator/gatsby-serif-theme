@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import Menu from './Menu';
 import Hamburger from './Hamburger';
-import logo from '../images/learnovate.png';
+import logo from '../images/learnovate%20-%20Copy.png';
 import logoMobile from '../images/learnovate-Mobile.png';
 import MenuMobile from './MenuMobile';
 
