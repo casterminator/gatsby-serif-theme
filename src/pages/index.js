@@ -14,15 +14,14 @@ const Home = (props) => {
       <Helmet>
         <meta
           name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          content="Let's learn and innovate today."
         />
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Serif - Gatsby Small Business Theme.</h1>
+          <h1>Learnovate</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            We are the complete Learning Management System solution that helps you train your employees online in an easy and fun way!
           </p>
         </div>
       </div>
